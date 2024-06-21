@@ -53,3 +53,8 @@
     "prebuild": "chmod +x ./node_modules/.bin/react-scripts",
     "build": "react-scripts build"
 }
+"scripts": {
+  "preinstall": "chmod +x node_modules/.bin/react-scripts",
+  "build": "react-scripts build"
+}
+
