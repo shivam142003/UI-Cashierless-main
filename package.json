@@ -25,6 +25,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "preinstall": "chmod +x node_modules/.bin/react-scripts",
+    "prebuild": "chmod +x ./node_modules/.bin/react-scripts",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -49,12 +51,3 @@
     ]
   }
 }
-"scripts": {
-    "prebuild": "chmod +x ./node_modules/.bin/react-scripts",
-    "build": "react-scripts build"
-}
-"scripts": {
-  "preinstall": "chmod +x node_modules/.bin/react-scripts",
-  "build": "react-scripts build"
-}
-
