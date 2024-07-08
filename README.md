@@ -1,3 +1,6 @@
+![Screenshot (509)](https://github.com/shivam142003/UI-Cashierless-main/assets/121782205/7a46ca6b-0393-44e3-9e56-275f6def4a95)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
